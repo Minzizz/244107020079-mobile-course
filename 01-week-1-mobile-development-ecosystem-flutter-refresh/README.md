@@ -1,17 +1,12 @@
-# my_first_app
+1. Perintah flutter doctor digunakan untuk mencari masalah yang ada
+2. Perintah flutter devices mencari perangkat yang dapat digunakan (fisik/emulator) 
+3. Saya menggunakan Chrome sebagai emulator untuk minggu ini dikarenakan kurang mengerti cara meninstall Android Studio
+4. Tidak ada kendala yang dihadapi pada minggu ini kecuali penginstallan Android Studio
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Refleksi**
+1. Kapan native lebih tepat dipilih daripada cross-platform?
+> Saat aplikasi yang ingin dibangun hanya dibuat di 1 platform
+2. Bagaimana perubahan state berhubungan dengan widget tree dan UI deklaratif?
+> Saat state berubah, widget tree dibangun ulang sesuai dengan perubahan state, UI deklaratif ngerender ulang bagian yang berubah dalam widget tree
+3. Mengapa commit kecil dengan pesan jelas bermanfaat bagi pekerjaan tim dan portfolio?
+> Karena dengan commit kecil tim dapat melihat perubahan sehingga dapat menyesuaikan dengan perubahan tersebut dan dapat melihat timeline perubahannya
