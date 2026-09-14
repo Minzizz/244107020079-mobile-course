@@ -84,12 +84,12 @@ Pengujian dilakukan dengan mensimulasikan berbagai ukuran layar (400px untuk sem
 ## Screenshots
 
 ### Tampilan Layar Sempit (Smartphone)
-![Tampilan Layar Sempit](screenshots/sempit.png)
+![Tampilan Layar Sempit](screenshots/LayarKecik.png)
 
 *Layout dengan 1 kolom, optimal untuk perangkat mobile dengan ukuran layar kecil.*
 
 ### Tampilan Layar Lebar (Tablet/Desktop)
-![Tampilan Layar Lebar](screenshots/lebar.png)
+![Tampilan Layar Lebar](screenshots/LayarLebar.png)
 
 *Layout dengan 2 kolom, memanfaatkan ruang layar yang lebih besar pada perangkat tablet atau desktop.*
 
